@@ -1,0 +1,9 @@
+﻿{
+  "PluginConfiguration": {
+    "MaxTransactionsPerBlock": 500,
+    "BlockedAccounts": {
+      "Type": "AllowAll",
+      "List": []
+    }
+  }
+}
